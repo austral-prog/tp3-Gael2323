@@ -1,4 +1,5 @@
-def slice_advanced():
+string1 = input("Ingrese una palabra: ")
+print(f'{string1[4::2]}')
     # Código a implementar utilizando input.
 
 # Para verificar este ejercicio ejecutar el comando
