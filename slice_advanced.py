@@ -1,5 +1,5 @@
 def slide_advanced():
-    string1 = input("Ingrese una palabra: ")
+    string1 = input()
     print(f'{string1[4::2]}')
     # Código a implementar utilizando input.
 
